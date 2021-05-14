@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cheppar
+- Hi, I’m Chidi Ejiofor 
 - 💞️ I’m looking to collaborate on IOT, GIS , surveying, Artificial Intelligence. 
 
 
