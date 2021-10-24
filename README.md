@@ -1,5 +1,7 @@
 - Hi, I’m Chidi Ejiofor 
-- IOT, GIS , surveying, Artificial Intelligence. 
+- A developer and founder of Cheppar.org
+- Code skilled in JavaScript and its libraries.
+- Java and PHP backend. 
 
 
 <!---
