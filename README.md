@@ -1,7 +1,5 @@
 - Hi, I’m Chidi Ejiofor 
-- A developer and founder of Cheppar.org
-- Code skilled in JavaScript and its libraries.
-- Java and PHP backend. 
+- I deliver. 
 
 
 <!---
