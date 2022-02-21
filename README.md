@@ -1,4 +1,5 @@
 - Hi, I’m Chidi Ejiofor 
+- Currently learning Algorithms and Data structures.
 - I deliver. 
 
 
