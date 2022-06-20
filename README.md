@@ -1,5 +1,5 @@
 - Hi, I’m Chidi Ejiofor 
-- Currently learning Algorithms and Data structures.
+- Creatively developing location based solutions
 - I deliver. 
 
 
