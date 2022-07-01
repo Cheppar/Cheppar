@@ -2,6 +2,8 @@
 - Creatively developing location based solutions
 - I deliver. 
 
+![](https://komarev.com/ghpvc/?username=Cheppar&color=red)
+
 
 <!---
 Cheppar/Cheppar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
