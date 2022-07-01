@@ -2,7 +2,7 @@
 - Creatively developing location based solutions
 - I deliver. 
 
-![](https://komarev.com/ghpvc/?username=Cheppar&color=red)
+![](https://komarev.com/ghpvc/?username=Cheppar&color=brightgreen&style=flat-square)
 
 
 <!---
