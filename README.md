@@ -1,5 +1,6 @@
 - Hi, I’m Chidi Ejiofor 
 - Creatively developing location based solutions
+- JS, PHP, Spring Framework, MapBox
 - I deliver. 
 
 ![](https://komarev.com/ghpvc/?username=Cheppar&color=brightgreen&style=flat-square)
