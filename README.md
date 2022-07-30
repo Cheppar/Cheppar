@@ -1,5 +1,5 @@
 - Hi, I’m Chidi Ejiofor 
-- Creatively developing location based solutions
+- Creatively developing map based solutions.
 - JS, PHP, Spring Framework, MapBox
 - I deliver. 
 
