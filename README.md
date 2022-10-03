@@ -1,5 +1,5 @@
 - Hi, I’m Chidi Ejiofor 
-- Creatively developing map based solutions.
+- Creatively developing map based GIS solutions.
 - JS, PHP, API's, ++ 
 - I deliver. 
 
