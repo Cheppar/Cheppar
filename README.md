@@ -1,4 +1,4 @@
-- Hi, I’m Chidi Ejiofor 
+- Jambo! I'm Godfrey Chidi. 
 - Creatively developing map based GIS solutions.
 - I deliver. 
 - I'm humbled to learn more. Be kind.
