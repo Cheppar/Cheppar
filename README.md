@@ -1,10 +1,7 @@
 - Hi, I’m Chidi Ejiofor 
 - Creatively developing map based GIS solutions.
-- JS, PHP, API's, ++ 
 - I deliver. 
-
-![](https://komarev.com/ghpvc/?username=Cheppar&color=brightgreen&style=flat-square)
-
+- I'm humbled to learn more. Be kind.
 
 <!---
 Cheppar/Cheppar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
