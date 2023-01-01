@@ -1,5 +1,6 @@
 - Jambo! I'm Godfrey Chidi. 
 - Creatively developing map based GIS solutions.
+- JS,PHP, NodeJS, Serverless.
 
 
 <!---
