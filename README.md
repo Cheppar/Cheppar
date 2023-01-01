@@ -1,6 +1,7 @@
-- Jambo! I'm Godfrey Chidi. 
+- Jambo! call me Chidi. 
 - Creatively developing map based GIS solutions.
-- JS,PHP, NodeJS, Serverless.
+- Map technologies with JS,PHP, NodeJS, Serverless, MapSDK, PostGIS
+
 
 
 <!---
