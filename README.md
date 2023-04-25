@@ -1,7 +1,7 @@
 - Jambo! call me Chidi. 
-- Creatively developing map based GIS solutions.
+- Creatively developing indoor and outdoor map based GIS solutions.
 - Map technologies with JS,PHP, NodeJS, Serverless, MapSDK, PostGIS
-
+- I'm inquisitive, and I deliver.
 
 
 <!---
