@@ -1,6 +1,6 @@
 - Jambo! call me Chidi. 
 - Creatively developing indoor and outdoor map based GIS solutions.
-- Map technologies with JS,PHP, NodeJS, MapSDK, PostGIS
+- Map and Payment solutions with Swift, JS,PHP, NodeJS, MapSDK, PostGIS
 - Currently learning Swift
 - I'm inquisitive, and I deliver.
 
