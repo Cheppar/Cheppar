@@ -1,13 +1,6 @@
 - jambo! I'm Chidi, a solutions architect.
 - An inquisitive mind, navigating the creative realm.
 - Providing tech based code solutions to solve recurring problems by improving business experience.
-- GIS developer :  Indoor + Outdoor.
-
-- const chidi = {
-  code: [Javascript, Typescript, PHP, Objective-C],
-  tools: [Laravel, React, React-Native, Postgresql, PostGIS],
-}
-
 
 <!---
 Cheppar/Cheppar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
