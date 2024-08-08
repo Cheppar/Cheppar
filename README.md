@@ -1,8 +1,12 @@
-- Jambo! call me chidi. 
-- Creatively developing indoor and outdoor map based GIS solutions.
-- Map and Payment solutions with ArcGIS ,Swift, JS,PHP, NodeJS, MapSDK, PostGIS
-- Currently learning Swift
-- I'm inquisitive, and I deliver.
+- jambo! I'm Chidi, a solutions architect.
+- An inquisitive mind, navigating the creative realm.
+- Providing tech based code solutions to solve recurring problems by improving business experience.
+- GIS developer :  Indoor + Outdoor.
+
+- const chidi = {
+  code: [Javascript, Typescript, PHP, Objective-C],
+  tools: [Laravel, React, React-Native, Postgresql, PostGIS],
+}
 
 
 <!---
