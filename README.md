@@ -1,6 +1,6 @@
-- jambo! I'm Chidi, a solutions architect.
-- An inquisitive mind, navigating the creative realm.
-- Providing tech based code solutions to solve recurring problems by improving business experience.
+- A digital mapper
+- improving lives through technology powered by internet
+2024
 
 <!---
 Cheppar/Cheppar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
