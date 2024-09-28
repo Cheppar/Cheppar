@@ -1,4 +1,3 @@
-- A digital mapper
 - improving lives through technology powered by internet
 2024
 
